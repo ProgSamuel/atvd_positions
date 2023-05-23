@@ -1,0 +1,76 @@
+body {
+    position: absolute;
+    background-color: gray;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+   
+}
+
+div {
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: fixed;
+}
+
+.box1 {
+    top: 0;
+    left: 0;
+}
+
+.box2 {
+    top: 0;
+    left: 45px;
+}
+
+.box3 {
+    top: 0;
+    left: 90px;
+}
+
+.box4 {
+    top: 45px;
+    left: 0;
+}
+
+.box5 {
+    top: 45px;
+    left: 45px;
+}
+
+.box6 {
+    top: 90px;
+    left: 0;
+}
+
+.box7 {
+    bottom: 90px;
+    right: 0;
+}
+
+.box8 {
+    bottom: 45px;
+    right: 45px;
+}
+
+.box9 {
+    bottom: 45px;
+    right: 0;
+}
+
+.box10 {
+    bottom: 0;
+    right: 90px;
+}
+
+.box11 {
+    bottom: 0;
+    right: 45px;
+}
+
+.box12 {
+    bottom: 0;
+    right: 0;
+}

@@ -1,0 +1,26 @@
+body{
+    display: inline-block;
+    background-color: gray;
+  
+}
+
+div{
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 100px;
+    margin: 20px;
+}
+
+#caixa1{
+text-align: end;
+text-transform: uppercase;
+border-radius: 20px;
+padding: 10px;
+}
+
+#caixa2{
+text-align: initial;
+overflow-y: scroll;
+border: solid 3px red;
+}
